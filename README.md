@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+  Welcome to our Text Editor Website, your all-in-one tool for
+            manipulating text easily and efficiently. Whether you need to
+            convert text to uppercase or lowercase, copy text, remove extra
+            spaces, capitalize the first letter, or find and replace words, our
+            website has got you covered. We strive to provide a user-friendly
+            interface that simplifies text editing tasks. We are committed to providing a reliable and user-friendly text
+            editing experience. Whether you're a student, professional, or
+            casual user, our Text Editor Website aims to make text editing tasks
+            seamless and efficient. Start using our website today and unlock the
+            power of easy text manipulation.
+
 ## Available Scripts
 
 In the project directory, you can run:
